@@ -1,0 +1,23 @@
+body {
+    Background: pink;
+    font-family: Arial;
+}
+
+div1 {
+    color: blue;
+    position: relative;
+    font-size: 1vw;
+}
+
+div1 p {
+    position: relative;
+}
+
+#gora {
+    height: 100px;
+}
+
+#srodek {
+    display: table;
+    margin: 0 auto;
+}
